@@ -1,7 +1,7 @@
 # Hill_Cipher
-Encryptor and Decryptor to Hill Cipher Encryption
+Tool for Hill Cipher Encryption (Encrypt & Decrypt)
 
-This program was intended as a challenging assignment from one of the lecturers at my university.
+This program was intended as a challenge assignment from one of the lecturers at my university.
 
 NOTE :
 1. Plaintext/Ciphertext can only use letters and spaces.
